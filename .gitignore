@@ -4,3 +4,7 @@ migration-bean.xml*
 *~
 id-index
 id-minter.log
+exported-id-index
+.classpath
+.project
+.settings
